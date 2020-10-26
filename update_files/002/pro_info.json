@@ -1,0 +1,14 @@
+{
+    "currentVersion": 2,
+    "versionStr": "002",
+    "fileChanges": {
+        "additions": [],
+        "deletions": [
+            "pro/.ThisFileHasBeenDeleted.txt"
+        ],
+        "changes": [
+            "pro/base_library.zip",
+            "pro/Feature Rule Generator Pro.exe"
+        ]
+    }
+}
