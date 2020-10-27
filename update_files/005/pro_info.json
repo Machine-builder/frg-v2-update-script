@@ -1,0 +1,29 @@
+{
+    "currentVersion": 5,
+    "versionStr": "005",
+    "fileChanges": {
+        "additions": [],
+        "deletions": [],
+        "changes": [
+            "pro/base_library.zip",
+            "pro/Feature Rule Generator Pro.exe",
+            "pro/htmlpages_dist/feature_rule_generator_startup.html",
+            "pro/htmlpages_dist/itch_profile_continue.html",
+            "pro/htmlpages_dist/itch_redirect.html",
+            "pro/htmlpages_dist/itch_verify.html",
+            "pro/htmlpages_dist/ltc_editor.html",
+            "pro/htmlpages_dist/ltc_menu.html",
+            "pro/htmlpages_dist/nbt_edit_entities.html",
+            "pro/htmlpages_dist/nbt_edit_loot_tables.html",
+            "pro/htmlpages_dist/nbt_edit_main.html",
+            "pro/htmlpages_dist/pack_editing.html",
+            "pro/htmlpages_dist/pack_listing.html",
+            "pro/htmlpages_dist/pack_listing_createnew.html",
+            "pro/htmlpages_dist/structure_exporting.html",
+            "pro/htmlpages_dist/structure_settings.html",
+            "pro/htmlpages_dist/structure_settings_biomes.html",
+            "pro/htmlpages_dist/styles.css",
+            "pro/htmlpages_dist/world_listing.html"
+        ]
+    }
+}
