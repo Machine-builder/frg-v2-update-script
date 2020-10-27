@@ -1,0 +1,31 @@
+{
+    "currentVersion": 3,
+    "versionStr": "003",
+    "fileChanges": {
+        "additions": [
+            "free/htmlpages_dist/debug.log"
+        ],
+        "deletions": [],
+        "changes": [
+            "free/base_library.zip",
+            "free/Feature Rule Generator Free.exe",
+            "free/htmlpages_dist/feature_rule_generator_startup.html",
+            "free/htmlpages_dist/itch_profile_continue.html",
+            "free/htmlpages_dist/itch_redirect.html",
+            "free/htmlpages_dist/itch_verify.html",
+            "free/htmlpages_dist/ltc_editor.html",
+            "free/htmlpages_dist/ltc_menu.html",
+            "free/htmlpages_dist/nbt_edit_entities.html",
+            "free/htmlpages_dist/nbt_edit_loot_tables.html",
+            "free/htmlpages_dist/nbt_edit_main.html",
+            "free/htmlpages_dist/pack_editing.html",
+            "free/htmlpages_dist/pack_listing.html",
+            "free/htmlpages_dist/pack_listing_createnew.html",
+            "free/htmlpages_dist/structure_exporting.html",
+            "free/htmlpages_dist/structure_settings.html",
+            "free/htmlpages_dist/structure_settings_biomes.html",
+            "free/htmlpages_dist/styles.css",
+            "free/htmlpages_dist/world_listing.html"
+        ]
+    }
+}
