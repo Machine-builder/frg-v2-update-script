@@ -1,0 +1,13 @@
+{
+    "currentVersion": 12,
+    "versionStr": "012",
+    "fileChanges": {
+        "additions": [],
+        "deletions": [],
+        "changes": [
+            "pro/base_library.zip",
+            "pro/Feature Rule Generator Pro.exe",
+            "pro/data_static/version.txt"
+        ]
+    }
+}
