@@ -1,0 +1,51 @@
+{
+    "currentVersion": 11,
+    "versionStr": "011",
+    "fileChanges": {
+        "additions": [
+            "pro/htmlpages_dist/structure_list_configuration.html"
+        ],
+        "deletions": [
+            "pro/FRGUpdates.exe",
+            "pro/htmlpages_dcr/feature_rule_generator_startup.html",
+            "pro/htmlpages_dcr/itch_profile_continue.html",
+            "pro/htmlpages_dcr/itch_redirect.html",
+            "pro/htmlpages_dcr/itch_verify.html",
+            "pro/htmlpages_dcr/ltc_editor.html",
+            "pro/htmlpages_dcr/ltc_menu.html",
+            "pro/htmlpages_dcr/nbt_edit_entities.html",
+            "pro/htmlpages_dcr/nbt_edit_loot_tables.html",
+            "pro/htmlpages_dcr/nbt_edit_main.html",
+            "pro/htmlpages_dcr/pack_editing.html",
+            "pro/htmlpages_dcr/pack_listing.html",
+            "pro/htmlpages_dcr/pack_listing_createnew.html",
+            "pro/htmlpages_dcr/structure_exporting.html",
+            "pro/htmlpages_dcr/structure_settings.html",
+            "pro/htmlpages_dcr/structure_settings_biomes.html",
+            "pro/htmlpages_dcr/styles.css",
+            "pro/htmlpages_dcr/world_listing.html"
+        ],
+        "changes": [
+            "pro/base_library.zip",
+            "pro/Feature Rule Generator Pro.exe",
+            "pro/data_static/version.txt",
+            "pro/htmlpages_dist/feature_rule_generator_startup.html",
+            "pro/htmlpages_dist/itch_profile_continue.html",
+            "pro/htmlpages_dist/itch_redirect.html",
+            "pro/htmlpages_dist/itch_verify.html",
+            "pro/htmlpages_dist/ltc_editor.html",
+            "pro/htmlpages_dist/ltc_menu.html",
+            "pro/htmlpages_dist/nbt_edit_entities.html",
+            "pro/htmlpages_dist/nbt_edit_loot_tables.html",
+            "pro/htmlpages_dist/nbt_edit_main.html",
+            "pro/htmlpages_dist/pack_editing.html",
+            "pro/htmlpages_dist/pack_listing.html",
+            "pro/htmlpages_dist/pack_listing_createnew.html",
+            "pro/htmlpages_dist/structure_exporting.html",
+            "pro/htmlpages_dist/structure_settings.html",
+            "pro/htmlpages_dist/structure_settings_biomes.html",
+            "pro/htmlpages_dist/styles.css",
+            "pro/htmlpages_dist/world_listing.html"
+        ]
+    }
+}
