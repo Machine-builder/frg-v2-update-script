@@ -1,0 +1,14 @@
+{
+    "currentVersion": 9,
+    "versionStr": "009",
+    "fileChanges": {
+        "additions": [],
+        "deletions": [
+            "pro/htmlpages_dist/debug.log"
+        ],
+        "changes": [
+            "pro/base_library.zip",
+            "pro/Feature Rule Generator Pro.exe"
+        ]
+    }
+}
